@@ -42,7 +42,7 @@ cd parallel-text-processing
 
 2. **Prepare your dataset**
    - Place UN XML files in the directory structure: `un/xml/en/y20XX/`
-   - Update paths in `22i-0907_A_A1_Script1.py` as needed
+   - Update paths in `Script1.py` as needed
 
 3. **Compile the C++ programs**
 ```bash
